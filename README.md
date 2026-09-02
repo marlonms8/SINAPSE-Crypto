@@ -97,6 +97,6 @@ A aplicação não possui permissão `INTERNET` no `AndroidManifest.xml` e reali
 O SINAPSE Crypto é distribuído sob a licença MIT. A compatibilidade implementada foi baseada no comportamento do projeto open source **android-hidden-aes**, de Roberto Xavier Collura, também licenciado sob MIT. Consulte [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
 
-### Interface 1.2.0
+### Interface 1.0.0
 
 O **Resultado** é somente leitura, não recebe foco de edição e não abre o teclado. A área contém apenas o texto produzido e o botão **Copiar**. O **Texto de Entrada** mantém o editor em tela cheia.
