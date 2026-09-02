@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SINAPSE Crypto</string>
+    <string name="subtitle">AES/CBC • Compatibilidade Collura v1.0 • Offline</string>
+    <string name="password_label">Chave de Segurança</string>
+    <string name="password_hint">Digite a chave</string>
+    <string name="input_label">Texto de Entrada</string>
+    <string name="input_hint">Digite o texto ou cole o conteúdo criptografado</string>
+    <string name="result_label">Resultado</string>
+    <string name="encrypt">Criptografar</string>
+    <string name="decrypt">Descriptografar</string>
+    <string name="copy">Copiar</string>
+    <string name="clear">Limpar</string>
+    <string name="show_password">Mostrar chave</string>
+    <string name="hide_password">Ocultar chave</string>
+    <string name="status_encrypted">Texto criptografado.</string>
+    <string name="status_decrypted">Texto descriptografado.</string>
+    <string name="status_copied">Resultado copiado.</string>
+    <string name="error_password_required">Informe a Chave de Segurança.</string>
+    <string name="error_text_required">Informe o texto que deseja criptografar.</string>
+    <string name="error_cipher_required">Informe o texto criptografado.</string>
+    <string name="error_nothing_to_copy">Não há resultado para copiar.</string>
+    <string name="error_generic">Não foi possível concluir a operação.</string>
+    <string name="character_count">%1$d caracteres</string>
+    <string name="maximize_input">Abrir texto de entrada em tela cheia</string>
+    <string name="maximize_result">Abrir resultado em tela cheia</string>
+    <string name="close_fullscreen">Fechar tela cheia</string>
+    <string name="done">Concluir</string>
+    <string name="offline_notice">Processamento exclusivamente local • Sem permissão de Internet</string>
+    <string name="app_icon_description">Ícone do SINAPSE Crypto</string>
+    <string name="expand_result">Maximizar resultado</string>
+    <string name="close">Fechar</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <color name="window_background">#F2F5F9</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="input_background">#F8FAFC</color>
+    <color name="result_background">#F4F7FB</color>
+    <color name="stroke">#D7DFE9</color>
+    <color name="text_primary">#172033</color>
+    <color name="text_secondary">#637083</color>
+    <color name="text_hint">#8995A6</color>
+    <color name="primary">#304A6E</color>
+    <color name="primary_pressed">#243A57</color>
+    <color name="secondary_button">#E7EDF5</color>
+    <color name="button_secondary_text">#263D5C</color>
+    <color name="status_success">#237A4B</color>
+    <color name="status_error">#B23838</color>
+    <color name="icon_background">#203652</color>
+    <color name="icon_accent">#D9E8F8</color>
+</resources>
